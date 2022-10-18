@@ -4,4 +4,4 @@
 
     helm repo update
 
-    helm install <release-name> hello --timeout 2m
+    helm install <release-name> hello-k8s --timeout 2m
