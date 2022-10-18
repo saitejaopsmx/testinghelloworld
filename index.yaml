@@ -3,6 +3,16 @@ entries:
   hello:
   - apiVersion: v2
     appVersion: 0.1.0
+    created: "2022-10-18T15:05:38.57447223Z"
+    description: A 'Hello World' program written in go lang.
+    digest: 987e2e7d329a0be403a4f11d57e12f45a398ad8b13273d12a09296d1a82e2b25
+    name: hello
+    type: application
+    urls:
+    - https://github.com/saitejaopsmx/testinghelloworld/releases/download/hello-0.1.5/hello-0.1.5.tgz
+    version: 0.1.5
+  - apiVersion: v2
+    appVersion: 0.1.0
     created: "2022-10-18T14:55:38.249074565Z"
     description: A 'Hello World' program written in go lang.
     digest: ba738e0451699aa6d1a81fd416eaec762b2bd43493f4a1c0cc9754c9934f14c3
@@ -62,4 +72,4 @@ entries:
     urls:
     - https://github.com/saitejaopsmx/testinghelloworld/releases/download/postgresql-11.8.5/postgresql-11.8.5.tgz
     version: 11.8.5
-generated: "2022-10-18T14:55:38.249088066Z"
+generated: "2022-10-18T15:05:38.574549429Z"
