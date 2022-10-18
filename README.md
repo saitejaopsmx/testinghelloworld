@@ -2,7 +2,7 @@
 
 
 
-    helm repo add hello https://saitejaopsmx.github.io/testinghelloworld/
+    helm repo add hello-k8s https://saitejaopsmx.github.io/testinghelloworld/
 
     helm repo update
     
